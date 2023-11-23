@@ -1,0 +1,40 @@
+C:\Users\there\source\repos\InmobiliariasV2\InmobiliariasV2\bin\Debug\netcoreapp3.1\InmobiliariasV2.exe
+C:\Users\there\source\repos\InmobiliariasV2\InmobiliariasV2\bin\Debug\netcoreapp3.1\InmobiliariasV2.deps.json
+C:\Users\there\source\repos\InmobiliariasV2\InmobiliariasV2\bin\Debug\netcoreapp3.1\InmobiliariasV2.runtimeconfig.json
+C:\Users\there\source\repos\InmobiliariasV2\InmobiliariasV2\bin\Debug\netcoreapp3.1\InmobiliariasV2.runtimeconfig.dev.json
+C:\Users\there\source\repos\InmobiliariasV2\InmobiliariasV2\bin\Debug\netcoreapp3.1\InmobiliariasV2.dll
+C:\Users\there\source\repos\InmobiliariasV2\InmobiliariasV2\bin\Debug\netcoreapp3.1\InmobiliariasV2.pdb
+C:\Users\there\source\repos\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.csproj.AssemblyReference.cache
+C:\Users\there\source\repos\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.Presentacion.frmCliente.resources
+C:\Users\there\source\repos\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.Presentacion.frmInicio.resources
+C:\Users\there\source\repos\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.Presentacion.frmPropiedades.resources
+C:\Users\there\source\repos\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.Presentacion.frmVenta.resources
+C:\Users\there\source\repos\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.csproj.GenerateResource.cache
+C:\Users\there\source\repos\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\there\source\repos\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.AssemblyInfoInputs.cache
+C:\Users\there\source\repos\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.AssemblyInfo.cs
+C:\Users\there\source\repos\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.csproj.CoreCompileInputs.cache
+C:\Users\there\source\repos\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.dll
+C:\Users\there\source\repos\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.pdb
+C:\Users\there\source\repos\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.genruntimeconfig.cache
+C:\Users\there\source\repos\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.Presentacion.frmConsultas.resources
+D:\Clases\Obligatorios\Obligatorio 1 segundo\InmobiliariasV2\InmobiliariasV2\bin\Debug\netcoreapp3.1\InmobiliariasV2.exe
+D:\Clases\Obligatorios\Obligatorio 1 segundo\InmobiliariasV2\InmobiliariasV2\bin\Debug\netcoreapp3.1\InmobiliariasV2.deps.json
+D:\Clases\Obligatorios\Obligatorio 1 segundo\InmobiliariasV2\InmobiliariasV2\bin\Debug\netcoreapp3.1\InmobiliariasV2.runtimeconfig.json
+D:\Clases\Obligatorios\Obligatorio 1 segundo\InmobiliariasV2\InmobiliariasV2\bin\Debug\netcoreapp3.1\InmobiliariasV2.runtimeconfig.dev.json
+D:\Clases\Obligatorios\Obligatorio 1 segundo\InmobiliariasV2\InmobiliariasV2\bin\Debug\netcoreapp3.1\InmobiliariasV2.dll
+D:\Clases\Obligatorios\Obligatorio 1 segundo\InmobiliariasV2\InmobiliariasV2\bin\Debug\netcoreapp3.1\InmobiliariasV2.pdb
+D:\Clases\Obligatorios\Obligatorio 1 segundo\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.csproj.AssemblyReference.cache
+D:\Clases\Obligatorios\Obligatorio 1 segundo\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.Presentacion.frmCliente.resources
+D:\Clases\Obligatorios\Obligatorio 1 segundo\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.Presentacion.frmConsultas.resources
+D:\Clases\Obligatorios\Obligatorio 1 segundo\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.Presentacion.frmInicio.resources
+D:\Clases\Obligatorios\Obligatorio 1 segundo\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.Presentacion.frmPropiedades.resources
+D:\Clases\Obligatorios\Obligatorio 1 segundo\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.Presentacion.frmVenta.resources
+D:\Clases\Obligatorios\Obligatorio 1 segundo\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.csproj.GenerateResource.cache
+D:\Clases\Obligatorios\Obligatorio 1 segundo\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clases\Obligatorios\Obligatorio 1 segundo\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.AssemblyInfoInputs.cache
+D:\Clases\Obligatorios\Obligatorio 1 segundo\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.AssemblyInfo.cs
+D:\Clases\Obligatorios\Obligatorio 1 segundo\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.csproj.CoreCompileInputs.cache
+D:\Clases\Obligatorios\Obligatorio 1 segundo\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.dll
+D:\Clases\Obligatorios\Obligatorio 1 segundo\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.pdb
+D:\Clases\Obligatorios\Obligatorio 1 segundo\InmobiliariasV2\InmobiliariasV2\obj\Debug\netcoreapp3.1\InmobiliariasV2.genruntimeconfig.cache

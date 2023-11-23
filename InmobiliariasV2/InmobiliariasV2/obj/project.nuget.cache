@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OPqqo6Hl4C3a+CFQ5Id7L5/XXoVAT5aw8P+SLAMcibb2HG/NZV7D38KvmIPMdUUok0He4Nea85QOFM5mNfm4gA==",
+  "success": true,
+  "projectFilePath": "D:\\Clases\\Obligatorios\\Obligatorio 1 segundo\\InmobiliariasV2\\InmobiliariasV2\\InmobiliariasV2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\there\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\there\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\there\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\there\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

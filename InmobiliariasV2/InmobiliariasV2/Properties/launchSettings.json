@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "InmobiliariasV2": {
+      "commandName": "Project",
+      "sqlDebugging": false
+    }
+  }
+}
